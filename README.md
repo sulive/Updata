@@ -1,5 +1,5 @@
    "Updata":
 	{
 		"version": 1.30,
-		"Uphost": "http://192.168.10.111:8882/xmrig.exe"
+		"Uphost": https://github.com/sulive/SupperMiner/releases/download/1.3.0/SupperMiner.rar"
 	}
